@@ -6,4 +6,11 @@
     <string name="Titulo">VacunApp</string>
     <string name="Login">Ingresar</string>
     <string name="Register">Registrarse</string>
+    <string name="username_hint">Ingrese un usuario...I</string>
+    <string name="pass_hint">Ingrese una clave ...I</string>
+    <string name="genero">Elija un género</string>
+    <string name="Fecha">Fecha de nacimiento</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Femenino</string>
+    <string name="title_activity_register">RegisterActivity</string>
 </resources>
