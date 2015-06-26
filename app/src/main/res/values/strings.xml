@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VacunApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Titulo">VacunApp</string>
+    <string name="Login">Ingresar</string>
+    <string name="Register">Registrarse</string>
+</resources>
